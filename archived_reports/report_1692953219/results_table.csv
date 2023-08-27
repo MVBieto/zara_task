@@ -1,0 +1,3 @@
+"Num","Result","Stacktrace","Screenshot","URL","Browser","Epoch Time","Duration","Test Case Address","Additional Info"
+"1","Passed!","*","*","*","chrome","1692953215","10.88s","zara_task_2.Task2.test_task_2","*"
+"2","Passed!","*","*","*","chrome","1692953219","4.33s","zara_task_2.Task2.test_task_3","*"
